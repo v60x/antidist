@@ -1,2 +1,4 @@
 # antidist
-..what?
+
+various systems i use in my games.
+(not the source of course)
