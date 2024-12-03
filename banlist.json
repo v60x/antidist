@@ -1,1 +1,2 @@
-["CherryPancake23","BlueberryPancake231","Roblox","v60x"]
+local lastBannedUsernamesData = ""
+local bannedUsernames = {"CherryPancake23","BlueberryPancake231","Roblox"}
