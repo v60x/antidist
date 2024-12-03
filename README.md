@@ -7,4 +7,4 @@ this repository, antidist, is one I'm using for an easy-access ban system for my
 > Whether they are exploiters, predators, etc. I will add a sorting system in the future to help those clean up their games.
 
 
-> Possible integration with Ruben Sim's database of Roblox predators in the future.
+> Possibly adding Ruben Sim's database of Roblox predators to add more bans to this, but that may be a feature in the next couple of months.
