@@ -1,5 +1,7 @@
-[
-  "SubToDreamyBull_OF",
+{
+    "Whitelist": 
+	[
+	"SubToDreamyBull_OF",
 	"SussySearchHistory",
 	"CustodyBattler",
 	"TheGlagglerV1",
@@ -58,4 +60,5 @@
 	"bluetiger123r",
 	"KraxxeI",
 	"AAAAAAA_AAAAAAA23"
-]
+	]
+}
